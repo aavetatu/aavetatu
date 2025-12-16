@@ -11,4 +11,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aavetatu&show_icons=true&locale=en&layout=compact" alt="aavetatu" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aavetatu)](https://git.io/streak-stats)
